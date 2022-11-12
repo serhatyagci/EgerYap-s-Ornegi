@@ -15,6 +15,7 @@ namespace HesapMakinesi
 
             Console.WriteLine("Birinci sayıyı giriniz:");
             double birinci = Convert.ToDouble(Console.ReadLine());
+            //test
 
             Console.WriteLine("İkinci sayıyı giriniz:");
             double ikinci = Convert.ToDouble(Console.ReadLine());
